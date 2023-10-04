@@ -89,3 +89,7 @@ function find_averages_of_subarrays(K, arr) {
 ### 0 1 Knapsack (Dynamic Programming)
 
 ### Topological Sort (Graph)
+
+## That's It. I'm Done For Now.
+
+![GIF](https://media.giphy.com/media/j5PHGhZMNOMznyhYPT/giphy.gif)
